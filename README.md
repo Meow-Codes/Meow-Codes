@@ -19,6 +19,7 @@ I’m a pre-final year undergraduate at the Indian Institute of Information Tech
 <div>
   <a href="https://www.linkedin.com/in/barghav-abhilash-b-r-2ab2ba29a/"><img src="assets/logos/linkedin.png"></a>
   <a href="https://x.com/https://x.com/GFless_Kurrodu"><img src="assets/logos/twitter.png"></a>
+  <a href="https://instagram.com/abhilash_2557"><img src="assets/logos/instagram.png" width="5px" height="5px"></a>
 </div>
 
 # 💻 Tech Stack:

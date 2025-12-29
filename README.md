@@ -1,3 +1,7 @@
+<a href="https://github.com/Meow-Codes">
+  <img width=100% src="assets\giphy.gif"/>
+</a>
+
 # 💫 About Me:
 I’m a pre-final year undergraduate at the Indian Institute of Information Technology, Dharwad.<br>My interests lie in Web Development, Machine Learning, and DevOps.
 

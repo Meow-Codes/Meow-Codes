@@ -1,5 +1,5 @@
 <a href="https://github.com/Meow-Codes">
-  <img width=100% src="assets\giphy.gif"/>
+  <img width=50% src="assets\giphy.gif"/>
 </a>
 
 # 💫 About Me:

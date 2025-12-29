@@ -18,7 +18,7 @@ I’m a pre-final year undergraduate at the Indian Institute of Information Tech
 
 <div>
   <a href="https://www.linkedin.com/in/barghav-abhilash-b-r-2ab2ba29a/"><img src="assets/logos/linkedin.png" width="50px" height="50px"></a>
-  <a href="https://x.com/https://x.com/GFless_Kurrodu"><img src="assets/logos/twitter.png" width="50px" height="50px"></a>
+  <a href="https://x.com/https://x.com/GFless_Kurrodu"><img src="assets/logos/twitter.png" width="60px" height="60px"></a>
   <a href="https://instagram.com/abhilash_2557"><img src="assets/logos/instagram.png" width="50px" height="50px"></a>
   <a href="mailto:23bcs028@iiitdwd.ac.in"><img src="assets/logos/gmail.png" width="50px" height="50px"></a>
 </div>

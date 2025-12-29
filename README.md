@@ -17,8 +17,8 @@ I’m a pre-final year undergraduate at the Indian Institute of Information Tech
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhilash_2557) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/barghav-abhilash-b-r-2ab2ba29a/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@abhilashagain123) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/GFless_Kurrodu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:23bcs028@iiitdwd.ac.in) 
 
 <div>
-  <a href="https://www.linkedin.com/in/barghav-abhilash-b-r-2ab2ba29a/"><img src="assets/logos/instagram.png" width="50px" height="50px"></a>
-  <a href="https://x.com/https://x.com/GFless_Kurrodu"><img src="assets/logos/instagram.png" width="50px" height="50px"></a>
+  <a href="https://www.linkedin.com/in/barghav-abhilash-b-r-2ab2ba29a/"><img src="assets/logos/linkedin.png" width="50px" height="50px"></a>
+  <a href="https://x.com/https://x.com/GFless_Kurrodu"><img src="assets/logos/twitter.png" width="50px" height="50px"></a>
   <a href="https://instagram.com/abhilash_2557"><img src="assets/logos/instagram.png" width="50px" height="50px"></a>
   <a href="mailto:23bcs028@iiitdwd.ac.in"><img src="assets/logos/gmail.png" width="50px" height="50px"></a>
 </div>

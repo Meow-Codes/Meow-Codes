@@ -4,14 +4,7 @@
   </a>
 </p>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&duration=3000&pause=1000&color=8CC63F&center=true&multiline=true&width=700&height=240&lines=Hello+World+!!!!;I+am+Barghav+Abhilash+B+R;I%E2%80%99m+a+pre-final+year+undergraduate+at+the+Indian+Institute+of+Information+Technology%2C+Dharwad.;My+interests+lie+in+Web+Development%2C+System+Design%2C+Machine+Learning%2C+and+DevOps."
-      alt="Typing SVG"
-    />
-  </a>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&duration=2000&pause=100&color=8CC63F&center=true&multiline=true&width=500&height=220&lines=Hello+World+!!!!;I+am+Barghav+Abhilash+B+R;I%E2%80%99m+a+pre-final+year+undergraduate;+at+Indian+Institute+of+Information+Technology;%2C+Dharwad.;My+interests+lie+in+Web+Development;%2C+System+Design%2C+Machine+Learning%2C+and+DevOps.)](https://git.io/typing-svg)
 
 # 💫 About Me:
 I’m a pre-final year undergraduate at the Indian Institute of Information Technology, Dharwad.<br>My interests lie in Web Development, System Design, Machine Learning, and DevOps.

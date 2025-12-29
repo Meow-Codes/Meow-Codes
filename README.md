@@ -36,6 +36,8 @@ I’m a pre-final year undergraduate at the Indian Institute of Information Tech
   <img src="https://nirzak-streak-stats.vercel.app/?user=Meow-Codes&theme=merko&hide_border=false" />
 </div>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Meow-Codes&theme=merko)
+
 
 ---
 

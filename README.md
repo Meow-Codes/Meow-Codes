@@ -23,7 +23,7 @@ I’m a pre-final year undergraduate at the Indian Institute of Information Tech
 <div>
   <img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='50' height="50">
   <h2>GitHub Analytics</h2>
-</div>
+</div><br>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Meow-Codes&theme=merko&hide_border=true&include_all_commits=true&count_private=true" />

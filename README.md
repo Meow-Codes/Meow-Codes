@@ -4,7 +4,15 @@
   </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&duration=2000&pause=100&color=8CC63F&center=true&multiline=true&width=500&height=220&lines=Hello+World+!!!!;I+am+Barghav+Abhilash+B+R;I%E2%80%99m+a+pre-final+year+undergraduate;+at+Indian+Institute+of+Information+Technology;%2C+Dharwad.;My+interests+lie+in+Web+Development;%2C+System+Design%2C+Machine+Learning%2C+and+DevOps.)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&duration=3000&pause=1000&color=8CC63F&center=true&multiline=true&width=700&height=240&lines=Hello+World+!!!!;I+am+Barghav+Abhilash+B+R;I%E2%80%99m+a+pre-final+year+undergraduate+at+the+Indian+Institute+of+Information+Technology%2C+Dharwad.;My+interests+lie+in+Web+Development%2C+System+Design%2C+Machine+Learning%2C+and+DevOps."
+      alt="Typing SVG"
+    />
+  </a>
+</p>
+
 
 <br>
 <br>
@@ -28,9 +36,14 @@ I’m a pre-final year undergraduate at the Indian Institute of Information Tech
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Meow-Codes&theme=merko" />
 </div>
 
-![](https://github-readme-stats.vercel.app/api?username=Meow-Codes&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Meow-Codes&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Meow-Codes&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Meow-Codes&theme=merko&hide_border=false&include_all_commits=true&count_private=true" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Meow-Codes&theme=merko&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meow-Codes&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
 
 ---
 
